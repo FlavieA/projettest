@@ -1,7 +1,7 @@
 class classe():
     def __init__(self):
         self.name="flavie"
-
+        self.age=12
 def function(a,b):
     return a+b
 
