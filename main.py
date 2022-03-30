@@ -3,6 +3,8 @@ class classe():
         self.name="flavie"
         self.age=12
         self.colors="red"
+        self.pays="False"
+
 def function(a,b):
     return a+b
 
