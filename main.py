@@ -1,6 +1,6 @@
 class classe():
     def __init__(self):
-        self.name="loup"
+        self.name="flavie"
 
 def function(a,b):
     return a+b
